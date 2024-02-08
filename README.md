@@ -15,7 +15,7 @@
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 <br><br>
-- 👨‍🎓 I am a `2nd Year student` from the Faculty of **Computers Science and Engineering** (http://pstu.ac.bd/faculties/CSE) at **Patuakhali Science and Technology University**(http://pstu.ac.bd/).
+- 👨‍🎓 I am a `2nd Year student` from the Faculty of **Computers Science and Engineering** at **Patuakhali Science and Technology University**(http://pstu.ac.bd/).
 - 🏆 Nothing yet.
 - 🧔‍♂️ I love technology and use it to solve every `Problem`.
 - 🧑‍💻 I am a biginner competitive programmer at `Codeforces`, `Beecrowd`, `Hackerrank`, `Google Contests`.
