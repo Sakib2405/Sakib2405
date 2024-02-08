@@ -1,11 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I am Nazmus Sakib
 
-<h1 align="center">Hi 👋, I'm Nazmus Sakib</h1>
-<h3 align="center">Welcome to my profile</h3>
+<h2 align="center">Welcome to my profile</h3>
 
-- 🔭 I’m a 2nd year student from the [Faculty of Computer Science and Technology University](at Patuakhali Science and Technology University)
+- 👨‍🎓 I’m a 2nd year student from the Faculty of **Computer Science and Technology University** at **Patuakhali Science and Technology University**
 
-- 🌱 I’m currently learning **Java, HTML,CSS**
+- 💻 I’m currently learning **Java, HTML,CSS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sakib2405?tab=repositories](https://github.com/Sakib2405?tab=repositories)
 
