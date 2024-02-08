@@ -25,24 +25,6 @@
 - 
 <be>
 
-<!-- Competitive Programming Profiles --> 
-
-## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%> My Competitive Programming Profiles
-
-![Codeforces Stats](https://codeforces.com/profile/ug2102066)
-
-<div align="center" width=100%>
-  <a href="https://codeforces.com/profile/ug2102066"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=6%/></a>
-	  &emsp; 
-
-	<a href="https://icpc.global/ICPCID/QV8TYN25AXOO"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width=6% /></a>     
-	  &emsp; 
-	<a href="https://www.codingame.com/profile/b5c343c092d3284a9782026f1bc2f48e8945475" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width=20%>
-
-</div>
-<!-- 
-##  Frontend 
---> 
 <!-- 
 [![HTML5 Badge](https://img.shields.io/badge/-Html5-E34c26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34c26)](#) 
 [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#) 
