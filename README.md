@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **ug2102066@cse.pstu.ac.bd**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
