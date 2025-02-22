@@ -121,8 +121,8 @@
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sakib2405&repo=Sakib2405&theme=tokyonight" alt="GitHub Stats" />
 </a>
     	</a>
-    	<a href="https://github.com/7oSkaaa/Strees_Testing">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Strees_Testing&theme=tokyonight" alt="GitHub Stats" />
+    	<a href="https://github.com/Sakib2405/Hospital-Management-System">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sakib2405&repo=Hospital-Management-System&theme=tokyonight" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/7oSkaaa/CP-Templates">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Templates&theme=tokyonight" alt="GitHub Stats" />
