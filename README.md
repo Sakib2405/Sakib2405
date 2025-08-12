@@ -114,8 +114,8 @@
 	
 <div>
   <p align="center">
-	<a href="https://github.com/7oSkaaa/LeetCode_DailyChallenge_2023">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/Sakib2405/Python">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sakib2405&repo=Python&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/Sakib2405">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sakib2405&repo=Sakib2405&theme=tokyonight" alt="GitHub Stats" />
@@ -124,13 +124,13 @@
     	<a href="https://github.com/Sakib2405/Hospital-Management-System">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sakib2405&repo=Hospital-Management-System&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/7oSkaaa/CP-Templates">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Templates&theme=tokyonight" alt="GitHub Stats" />
-	<a href="https://github.com/7oSkaaa/Some-Linux-Commands">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Some-Linux-Commands&theme=tokyonight" alt="GitHub Stats" />
+    	<a href="https://github.com/Sakib2405/Codeblocks">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sakib2405&repo=Codeblocks&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/Sakib2405/Assembly_Language">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sakib2405&repo=Assembly_Language&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/Shorten-Link">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa*&repo=Shorten-Link&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/Sakib2405/Rice_Mill_Management">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sakib2405*&repo=Rice_Mill_Management" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/7oSkaaa/7oSkaaa">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=7oSkaaa&theme=tokyonight" alt="GitHub Stats" />
@@ -181,9 +181,9 @@
 
 <p align="center">
 	<picture>
-		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake-dark.svg">
-		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg">
-		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg">
+		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sakib2405/Sakib2405/output/github-contribution-grid-snake-dark.svg">
+		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sakib2405/Sakib2405/output/github-contribution-grid-snake.svg">
+		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sakib2405/Sakib2405/output/github-contribution-grid-snake.svg">
 	</picture>
 </p>
 
