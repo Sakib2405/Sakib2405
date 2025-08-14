@@ -12,7 +12,7 @@
 
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
 
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
+<img align="right" src="https://github.com/Sakib2405/Sakib2405/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 <br><br>
 - 👨‍🎓 I am a `2nd Year student` from the Faculty of **Computers Science and Engineering** at **Patuakhali Science and Technology University**(http://pstu.ac.bd/).
