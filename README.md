@@ -186,7 +186,7 @@
 </picture>
 
 	
-    </picture>
+</picture>
 </p>
 
 
