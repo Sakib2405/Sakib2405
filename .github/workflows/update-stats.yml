@@ -9,6 +9,10 @@ on:
     branches:
       - main
 
+concurrency:
+  group: update-github-stats-${{ github.ref }}
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -20,6 +24,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate GitHub Stats Card
         uses: stats-organization/github-readme-stats-action@v2
@@ -38,18 +43,10 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit generated cards
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          mkdir -p assets
-          git add assets/stats.svg assets/top-langs.svg
-
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "chore: refresh GitHub stats cards [skip ci]"
-            git push
-          fi
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh GitHub stats cards [skip ci]"
+          file_pattern: "assets/*.svg"
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "41898282+github-actions[bot]@users.noreply.github.com"
+          push_options: "--force-with-lease"
