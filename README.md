@@ -1,7 +1,5 @@
 <!-- ========================================================= -->
-
 <!--                         HERO                              -->
-
 <!-- ========================================================= -->
 
 <div align="center">
@@ -20,9 +18,17 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Sakib2405"><img src="https://img.shields.io/badge/GitHub-Sakib2405-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://github.com/Sakib2405?tab=followers"><img src="https://img.shields.io/github/followers/Sakib2405?style=for-the-badge&label=Followers&logo=github&color=0077B6" alt="Followers" /></a>
-  <a href="https://github.com/Sakib2405?tab=repositories"><img src="https://img.shields.io/github/stars/Sakib2405?style=for-the-badge&label=Stars&logo=github&color=00B4D8" alt="Stars" /></a>
+  <a href="https://github.com/Sakib2405">
+    <img src="https://img.shields.io/badge/GitHub-Sakib2405-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+  <a href="https://github.com/Sakib2405?tab=followers">
+    <img src="https://img.shields.io/github/followers/Sakib2405?style=for-the-badge&label=Followers&logo=github&color=0077B6" alt="Followers" />
+  </a>
+
+  <a href="https://github.com/Sakib2405?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Sakib2405?style=for-the-badge&label=Stars&logo=github&color=00B4D8" alt="Stars" />
+  </a>
 </p>
 
 </div>
@@ -32,19 +38,20 @@
 ---
 
 <!-- ========================================================= -->
-
-<!--                        ABOUT ME                           -->
-
+<!--                        ABOUT ME                            -->
 <!-- ========================================================= -->
 
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  I am a <b>Final Year Computer Science & Engineering student</b> at 
-  <a href="http://pstu.ac.bd/"><b>Patuakhali Science and Technology University (PSTU)</b></a>.
+  I am a <b>Final Year Computer Science & Engineering student</b> at
+  <a href="http://pstu.ac.bd/">
+    <b>Patuakhali Science and Technology University (PSTU)</b>
+  </a>.
 </p>
 
 <div align="center">
+
   <p>
     💻 Passionate about <b>Software Engineering, Algorithms & System Design</b><br>
     🌱 Specialized in <b>Dart, Python, PHP, Java, C/C++ & Full-Stack Development</b><br>
@@ -52,7 +59,10 @@
     🚀 Constantly learning, building scalable products, and solving complex problems.
   </p>
 
-  <p><b>🎯 Target:</b> Build impact-driven, production-ready software solutions.</p>
+  <p>
+    <b>🎯 Target:</b> Build impact-driven, production-ready software solutions.
+  </p>
+
 </div>
 
 <br>
@@ -60,17 +70,15 @@
 ---
 
 <!-- ========================================================= -->
-
 <!--                      EDUCATION                            -->
-
 <!-- ========================================================= -->
 
 <h2 align="center">🎓 Education</h2>
 
 <div align="center">
 
-| Institution                                             | Program                                 | Status     |
-| :------------------------------------------------------ | :-------------------------------------- | :--------- |
+| Institution | Program | Status |
+|:---|:---|:---|
 | **Patuakhali Science and Technology University (PSTU)** | B.Sc. in Computer Science & Engineering | Final Year |
 
 </div>
@@ -80,24 +88,22 @@
 ---
 
 <!-- ========================================================= -->
-
 <!--                    CURRENT FOCUS                          -->
-
 <!-- ========================================================= -->
 
 <h2 align="center">🎯 Currently Focused On</h2>
 
 <div align="center">
 
-| Area                             | Details                                           |
-| :------------------------------- | :------------------------------------------------ |
-| **Software Engineering**         | Designing maintainable, scalable software systems |
-| **Flutter / Dart**               | Cross-platform application development            |
-| **Firebase**                     | Backend services, authentication & real-time data |
-| **Algorithms & Data Structures** | Problem-solving and optimization                  |
-| **System Design**                | Architecting production-ready systems             |
-| **AI-powered Applications**      | Integrating intelligent features into software    |
-| **Competitive Programming**      | Codeforces, Beecrowd & HackerRank                 |
+| Area | Details |
+|:---|:---|
+| **Software Engineering** | Designing maintainable, scalable software systems |
+| **Flutter / Dart** | Cross-platform application development |
+| **Firebase** | Backend services, authentication & real-time data |
+| **Algorithms & Data Structures** | Problem-solving and optimization |
+| **System Design** | Architecting production-ready systems |
+| **AI-powered Applications** | Integrating intelligent features into software |
+| **Competitive Programming** | Codeforces, Beecrowd & HackerRank |
 
 </div>
 
@@ -106,9 +112,7 @@
 ---
 
 <!-- ========================================================= -->
-
 <!--                    TECH STACK                             -->
-
 <!-- ========================================================= -->
 
 <h2 align="center">🛠️ Tech Stack & Tooling</h2>
@@ -117,28 +121,36 @@
 
 <table>
   <tr>
-    <td align="center" width="150"><b>Languages</b></td>
+    <td align="center" width="150">
+      <b>Languages</b>
+    </td>
     <td>
       <img src="https://skillicons.dev/icons?i=dart,python,php,c,cpp,java,js,html,css&theme=dark" alt="Languages: Dart, Python, PHP, C, C++, Java, JavaScript, HTML, CSS" />
     </td>
   </tr>
 
   <tr>
-    <td align="center" width="150"><b>Frameworks & Platforms</b></td>
+    <td align="center" width="150">
+      <b>Frameworks & Platforms</b>
+    </td>
     <td>
       <img src="https://skillicons.dev/icons?i=flutter,firebase&theme=dark" alt="Frameworks: Flutter, Firebase" />
     </td>
   </tr>
 
   <tr>
-    <td align="center" width="150"><b>Databases</b></td>
+    <td align="center" width="150">
+      <b>Databases</b>
+    </td>
     <td>
       <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="Databases: MySQL, PostgreSQL" />
     </td>
   </tr>
 
   <tr>
-    <td align="center" width="150"><b>Tools</b></td>
+    <td align="center" width="150">
+      <b>Tools</b>
+    </td>
     <td>
       <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman&theme=dark" alt="Tools: Git, GitHub, VS Code, Linux, Postman" />
     </td>
@@ -152,9 +164,7 @@
 ---
 
 <!-- ========================================================= -->
-
 <!--                  FEATURED PROJECTS                        -->
-
 <!-- ========================================================= -->
 
 <h2 align="center">🚀 Featured Projects</h2>
@@ -165,105 +175,124 @@
 
   <tr>
 
-```
-<!-- Medicore -->
-<td width="50%" valign="top">
+    <!-- ===================== MEDICORE ====================== -->
 
-  <h3>🏥 Medicore</h3>
+    <td width="50%" valign="top">
 
-  <p>
-    A modern <b>Flutter & Firebase-based healthcare management application</b>
-    designed for patients, doctors, and administrators.
-  </p>
+      <h3>🏥 Medicore</h3>
 
-  <p>
-    <b>Tech:</b> Flutter · Dart · Firebase · AI · Firestore
-  </p>
+      <p>
+        A modern <b>Flutter and Firebase-based healthcare management application</b>
+        designed for patients, doctors, and administrators.
+      </p>
 
-  <p>
-    <a href="https://github.com/Sakib2405/medicore">
-      <img
-        src="https://img.shields.io/badge/View%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=00B4D8"
-        alt="Medicore Repository"
-      />
-    </a>
-  </p>
+      <p>
+        <b>Tech:</b> Flutter · Dart · Firebase · AI · Firestore
+      </p>
 
-</td>
+      <p>
+        <a href="https://github.com/Sakib2405/medicore">
+          <img
+            src="https://img.shields.io/badge/View%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=00B4D8"
+            alt="Medicore Repository"
+          />
+        </a>
+      </p>
 
-<!-- Hospital Patient Flow Simulation -->
-<td width="50%" valign="top">
+    </td>
 
-  <h3>🏨 Hospital Patient Flow Simulation</h3>
+    <!-- ========== HOSPITAL PATIENT FLOW SIMULATION ========== -->
 
-  <p>
-    A <b>discrete-event hospital simulation</b> built with Python and SimPy,
-    modeling patient flow through ER, Ward, Diagnostics, and Discharge
-    under realistic resource constraints.
-  </p>
+    <td width="50%" valign="top">
 
-  <p>
-    <b>Tech:</b> Python · SimPy · Discrete-Event Simulation
-  </p>
+      <h3>🏨 Hospital Patient Flow Simulation</h3>
 
-  <p>
-    <a href="https://github.com/Sakib2405/Hospital-patient-flow-simulation">
-      <img
-        src="https://img.shields.io/badge/View%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=00B4D8"
-        alt="Hospital Patient Flow Simulation Repository"
-      />
-    </a>
-  </p>
+      <p>
+        A <b>discrete-event simulation</b> of hospital patient flow built
+        using Python and the SimPy framework.
+      </p>
 
-</td>
-```
+      <p>
+        Models patient movement through <b>Emergency Room, Ward,
+        Diagnostics, and Discharge</b> under realistic constraints.
+      </p>
+
+      <p>
+        <b>Tech:</b> Python · SimPy · Discrete-Event Simulation
+      </p>
+
+      <p>
+        <a href="https://github.com/Sakib2405/Hospital-patient-flow-simulation">
+          <img
+            src="https://img.shields.io/badge/View%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=00B4D8"
+            alt="Hospital Patient Flow Simulation Repository"
+          />
+        </a>
+      </p>
+
+    </td>
 
   </tr>
 
   <tr>
 
-```
-<!-- Rice Mill Management -->
-<td width="50%" valign="top">
+    <!-- ================= RICE MILL MANAGEMENT ================= -->
 
-  <h3>🌾 Rice Mill Management</h3>
+    <td width="50%" valign="top">
 
-  <p>
-    An <b>automated rice mill management system</b> developed with
-    C# and the .NET framework, using SQL Server for database management.
-  </p>
+      <h3>🌾 Rice Mill Management</h3>
 
-  <p>
-    <b>Tech:</b> C# · .NET Framework · SQL Server
-  </p>
+      <p>
+        An <b>automated rice mill management system</b> developed using
+        C# and the .NET Framework with SQL Server as the database.
+      </p>
 
-  <p>
-    <a href="https://github.com/Sakib2405/Rice_Mill_Management">
-      <img
-        src="https://img.shields.io/badge/View%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=00B4D8"
-        alt="Rice Mill Management Repository"
-      />
-    </a>
-  </p>
+      <p>
+        Designed to manage rice mill operations and related business data
+        through a structured desktop management system.
+      </p>
 
-</td>
+      <p>
+        <b>Tech:</b> C# · .NET Framework · SQL Server
+      </p>
 
-<!-- More Projects -->
-<td width="50%" valign="top">
+      <p>
+        <a href="https://github.com/Sakib2405/Rice_Mill_Management">
+          <img
+            src="https://img.shields.io/badge/View%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=00B4D8"
+            alt="Rice Mill Management Repository"
+          />
+        </a>
+      </p>
 
-  <h3>💡 More Projects Coming Soon</h3>
+    </td>
 
-  <p>
-    Continuously building and experimenting with new software,
-    simulation, AI, and system-oriented projects.
-  </p>
+    <!-- ================= MORE PROJECTS ================= -->
 
-  <p>
-    <b>Focus:</b> Software Engineering · AI · System Design · Problem Solving
-  </p>
+    <td width="50%" valign="top">
 
-</td>
-```
+      <h3>💡 More Projects Coming Soon</h3>
+
+      <p>
+        Continuously building and experimenting with new software,
+        simulation, AI, and system-oriented projects.
+      </p>
+
+      <p>
+        <b>Focus:</b>
+        Software Engineering · AI · System Design · Problem Solving
+      </p>
+
+      <p>
+        <a href="https://github.com/Sakib2405?tab=repositories">
+          <img
+            src="https://img.shields.io/badge/View%20All%20Repositories-0D1117?style=for-the-badge&logo=github&logoColor=00B4D8"
+            alt="View All Repositories"
+          />
+        </a>
+      </p>
+
+    </td>
 
   </tr>
 
@@ -276,9 +305,7 @@
 ---
 
 <!-- ========================================================= -->
-
-<!--              COMPETITIVE PROGRAMMING                      -->
-
+<!--              COMPETITIVE PROGRAMMING                     -->
 <!-- ========================================================= -->
 
 <h2 align="center">🏆 Competitive Programming</h2>
@@ -288,11 +315,32 @@
 </p>
 
 <p align="center">
-  <a href="https://codeforces.com/"><img src="https://img.shields.io/badge/Codeforces-0D1117?style=for-the-badge&logo=codeforces&logoColor=00B4D8" alt="Codeforces" /></a>
+
+  <a href="https://codeforces.com/">
+    <img
+      src="https://img.shields.io/badge/Codeforces-0D1117?style=for-the-badge&logo=codeforces&logoColor=00B4D8"
+      alt="Codeforces"
+    />
+  </a>
+
   &nbsp;
-  <a href="https://www.beecrowd.com/"><img src="https://img.shields.io/badge/Beecrowd-0D1117?style=for-the-badge&logo=beecrowd&logoColor=00B4D8" alt="Beecrowd" /></a>
+
+  <a href="https://www.beecrowd.com/">
+    <img
+      src="https://img.shields.io/badge/Beecrowd-0D1117?style=for-the-badge&logo=beecrowd&logoColor=00B4D8"
+      alt="Beecrowd"
+    />
+  </a>
+
   &nbsp;
-  <a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-0D1117?style=for-the-badge&logo=hackerrank&logoColor=00B4D8" alt="HackerRank" /></a>
+
+  <a href="https://www.hackerrank.com/">
+    <img
+      src="https://img.shields.io/badge/HackerRank-0D1117?style=for-the-badge&logo=hackerrank&logoColor=00B4D8"
+      alt="HackerRank"
+    />
+  </a>
+
 </p>
 
 <br>
@@ -300,18 +348,24 @@
 ---
 
 <!-- ========================================================= -->
-
 <!--                    GITHUB METRICS                         -->
-
 <!-- ========================================================= -->
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
 
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sakib2405&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&title_color=00B4D8&icon_color=00B4D8&text_color=9CA3AF&bg_color=0D1117&cache_seconds=1800" width="49%" alt="GitHub Stats" />
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sakib2405&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&title_color=00B4D8&icon_color=00B4D8&text_color=9CA3AF&bg_color=0D1117&cache_seconds=1800"
+    width="49%"
+    alt="GitHub Stats"
+  />
 
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sakib2405&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=00B4D8&text_color=9CA3AF&bg_color=0D1117&cache_seconds=1800" width="49%" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sakib2405&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=00B4D8&text_color=9CA3AF&bg_color=0D1117&cache_seconds=1800"
+    width="49%"
+    alt="Top Languages"
+  />
 
 </div>
 
@@ -320,7 +374,11 @@
 <div align="center">
 
   <a href="https://github.com/Sakib2405">
-    <img src="https://streak-stats.demolab.com/?user=Sakib2405&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8" width="98%" alt="GitHub Streak" />
+    <img
+      src="https://streak-stats.demolab.com/?user=Sakib2405&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8"
+      width="98%"
+      alt="GitHub Streak"
+    />
   </a>
 
 </div>
@@ -329,7 +387,11 @@
 
 <div align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakib2405&theme=tokyonight" width="98%" alt="GitHub Activity Overview" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakib2405&theme=tokyonight"
+    width="98%"
+    alt="GitHub Activity Overview"
+  />
 
 </div>
 
@@ -338,9 +400,7 @@
 ---
 
 <!-- ========================================================= -->
-
 <!--              CONTRIBUTION SNAKE                           -->
-
 <!-- ========================================================= -->
 
 <h2 align="center">🐍 Contribution Activity</h2>
@@ -349,21 +409,21 @@
 
 <picture>
 
-<source
- media="(prefers-color-scheme: dark)"
- srcset="https://raw.githubusercontent.com/Sakib2405/Sakib2405/output/github-contribution-grid-snake-dark.svg"
-/>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Sakib2405/Sakib2405/output/github-contribution-grid-snake-dark.svg"
+  />
 
-<source
- media="(prefers-color-scheme: light)"
- srcset="https://raw.githubusercontent.com/Sakib2405/Sakib2405/output/github-contribution-grid-snake.svg"
-/>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Sakib2405/Sakib2405/output/github-contribution-grid-snake.svg"
+  />
 
-<img
- src="https://raw.githubusercontent.com/Sakib2405/Sakib2405/output/github-contribution-grid-snake.svg"
- alt="Contribution Snake"
- width="100%"
-/>
+  <img
+    src="https://raw.githubusercontent.com/Sakib2405/Sakib2405/output/github-contribution-grid-snake.svg"
+    alt="Contribution Snake"
+    width="100%"
+  />
 
 </picture>
 
@@ -374,9 +434,7 @@
 ---
 
 <!-- ========================================================= -->
-
 <!--                    CONNECT WITH ME                        -->
-
 <!-- ========================================================= -->
 
 <h2 align="center">🌐 Connect With Me</h2>
@@ -390,7 +448,7 @@
     />
   </a>
 
- 
+  &nbsp;
 
   <a href="https://www.facebook.com/profile.php?id=100074615715612">
     <img
@@ -399,7 +457,7 @@
     />
   </a>
 
- 
+  &nbsp;
 
   <a href="https://twitter.com/NazmusS99698031">
     <img
@@ -408,7 +466,7 @@
     />
   </a>
 
- 
+  &nbsp;
 
   <a href="https://www.instagram.com/nazmus_sakib_2405/">
     <img
@@ -417,7 +475,7 @@
     />
   </a>
 
- 
+  &nbsp;
 
   <a href="mailto:ug2102066@cse.pstu.ac.bd">
     <img
@@ -433,17 +491,15 @@
 ---
 
 <!-- ========================================================= -->
-
 <!--                          FOOTER                           -->
-
 <!-- ========================================================= -->
 
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,50:161B22,100:0D1117&height=130&section=footer"
-width="100%"
-alt="Footer Wave"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,50:161B22,100:0D1117&height=130&section=footer"
+  width="100%"
+  alt="Footer Wave"
 />
 
 <h3>⚡ Build • Solve • Scale • Evolve</h3>
