@@ -1,5 +1,5 @@
 <!-- ========================================================= -->
-<!--                          HERO                             -->
+<!--                         HERO                              -->
 <!-- ========================================================= -->
 
 <div align="center">
@@ -202,14 +202,14 @@
 ---
 
 <!-- ========================================================= -->
-<!--                   GITHUB METRICS                          -->
+<!--                    GITHUB METRICS                         -->
 <!-- ========================================================= -->
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sakib2405&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&title_color=00B4D8&icon_color=00B4D8&text_color=9CA3AF&bg_color=0D1117&cache_seconds=1800" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sakib2405&layout=compact&theme=tokyonight&hide_border=true&title_color=00B4D8&text_color=9CA3AF&bg_color=0D1117&cache_seconds=1800" width="49%" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sakib2405&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=00B4D8&text_color=9CA3AF&bg_color=0D1117&cache_seconds=1800" width="49%" alt="Top Languages" />
 </div>
 
 <br>
@@ -223,7 +223,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakib2405&bg_color=0D1117&color=00B4D8&line=0077B6&point=FFFFFF&area=true&hide_border=true&border_color=00B4D8" width="98%" alt="Contribution Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakib2405&theme=tokyo-night&area=true&hide_border=true&color=00B4D8&line=0077B6&point=FFFFFF&bg_color=0D1117" width="98%" alt="Contribution Activity Graph" />
 </div>
 
 <br>
