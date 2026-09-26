@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00B4D8&center=true&vCenter=true&width=750&height=50&lines=4th+Year+CSE+Student+at+PSTU+%F0%9F%8E%93;C+%7C+C%2B%2B+%7C+Java+%7C+Python+Developer;Competitive+Programmer+%26+Problem+Solver;Building+Scalable+Software+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00B4D8&center=true&vCenter=true&width=780&height=50&lines=4th+Year+CSE+Student+at+PSTU+%F0%9F%8E%93;Dart+%7C+Python+%7C+PHP+%7C+C%2B%2B+%7C+Java+Dev;Competitive+Programmer+%26+Problem+Solver;Building+Scalable+Software+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br>
 
@@ -36,20 +36,19 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  I'm a <b>4th Year Computer Science & Engineering student</b> at 
+  I am a <b>Final Year Computer Science & Engineering student</b> at 
   <a href="http://pstu.ac.bd/"><b>Patuakhali Science and Technology University (PSTU)</b></a>.
 </p>
 
-<p align="center">
-  💻 Passionate about <b>Software Engineering, Algorithms & Problem Solving</b><br>
-  🌱 Currently working with <b>C, C++, Java, Python & Web Development</b><br>
-  🏆 Practicing Competitive Programming on <b>Codeforces, Beecrowd & HackerRank</b><br>
-  🚀 Constantly learning, building scalable applications, and solving real-world problems.
-</p>
-
-<p align="center">
-  <b>🎯 Goal:</b> Become a skilled Software Engineer and create impactful software.
-</p>
+<div align="center">
+  <p>
+    💻 Passionate about <b>Software Engineering, Algorithms & System Design</b><br>
+    🌱 Specialized in <b>Dart, Python, PHP, Java, C/C++ & Full-Stack Development</b><br>
+    🏆 Competitive Programming on <b>Codeforces, Beecrowd & HackerRank</b><br>
+    🚀 Constantly learning, building scalable products, and solving complex problems.
+  </p>
+  <p><b>🎯 Target:</b> Build impact-driven, production-ready software solutions.</p>
+</div>
 
 <br>
 
@@ -59,11 +58,24 @@
 <!--                    TECH STACK                             -->
 <!-- ========================================================= -->
 
-<h2 align="center">🛠️ Tech Stack & Skills</h2>
+<h2 align="center">🛠️ Tech Stack & Tooling</h2>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,php,js,html,css,flutter,firebase,mysql,postgres,git,github,vscode,linux&perline=9&theme=dark" alt="Tech Stack" />
+<table>
+  <tr>
+    <td align="center" width="150"><b>Core Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=dart,python,php,c,cpp,java,js,html,css&theme=dark" alt="Core Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150"><b>Frameworks & Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=flutter,firebase,mysql,postgres,git,github,vscode,linux,postman&theme=dark" alt="Frameworks and Tools" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -78,7 +90,7 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sakib2405&show_icons=true&theme=tokyonight&hide_border=true&title_color=00B4D8&icon_color=00B4D8&text_color=9CA3AF&bg_color=0D1117&cache_seconds=1800" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sakib2405&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&title_color=00B4D8&icon_color=00B4D8&text_color=9CA3AF&bg_color=0D1117&cache_seconds=1800" width="49%" alt="GitHub Stats" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sakib2405&layout=compact&theme=tokyonight&hide_border=true&title_color=00B4D8&text_color=9CA3AF&bg_color=0D1117&cache_seconds=1800" width="49%" alt="Top Languages" />
 </div>
 
