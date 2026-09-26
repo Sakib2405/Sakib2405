@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Bangladesh-00B4D8?style=flat-square&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Bangladesh-00B4D8?style=flat-square&logo=google-maps&logoColor=white" alt="Location: Bangladesh" />
   <img src="https://komarev.com/ghpvc/?username=Sakib2405&label=PROFILE%20VIEWS&style=flat-square&color=0077B6" alt="Profile Views" />
 </p>
 
@@ -55,6 +55,48 @@
 ---
 
 <!-- ========================================================= -->
+<!--                      EDUCATION                            -->
+<!-- ========================================================= -->
+
+<h2 align="center">🎓 Education</h2>
+
+<div align="center">
+
+| Institution | Program | Status |
+|:---|:---|:---|
+| **Patuakhali Science and Technology University (PSTU)** | B.Sc. in Computer Science & Engineering | Final Year |
+
+</div>
+
+<br>
+
+---
+
+<!-- ========================================================= -->
+<!--                    CURRENT FOCUS                          -->
+<!-- ========================================================= -->
+
+<h2 align="center">🎯 Currently Focused On</h2>
+
+<div align="center">
+
+| Area | Details |
+|:---|:---|
+| **Software Engineering** | Designing maintainable, scalable software systems |
+| **Flutter / Dart** | Cross-platform application development |
+| **Firebase** | Backend services, authentication & real-time data |
+| **Algorithms & Data Structures** | Problem-solving and optimization |
+| **System Design** | Architecting production-ready systems |
+| **AI-powered Applications** | Integrating intelligent features into software |
+| **Competitive Programming** | Codeforces, Beecrowd & HackerRank |
+
+</div>
+
+<br>
+
+---
+
+<!-- ========================================================= -->
 <!--                    TECH STACK                             -->
 <!-- ========================================================= -->
 
@@ -64,20 +106,96 @@
 
 <table>
   <tr>
-    <td align="center" width="150"><b>Core Languages</b></td>
+    <td align="center" width="150"><b>Languages</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=dart,python,php,c,cpp,java,js,html,css&theme=dark" alt="Core Languages" />
+      <img src="https://skillicons.dev/icons?i=dart,python,php,c,cpp,java,js,html,css&theme=dark" alt="Languages: Dart, Python, PHP, C, C++, Java, JavaScript, HTML, CSS" />
     </td>
   </tr>
   <tr>
-    <td align="center" width="150"><b>Frameworks & Tools</b></td>
+    <td align="center" width="150"><b>Frameworks & Platforms</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=flutter,firebase,mysql,postgres,git,github,vscode,linux,postman&theme=dark" alt="Frameworks and Tools" />
+      <img src="https://skillicons.dev/icons?i=flutter,firebase&theme=dark" alt="Frameworks: Flutter, Firebase" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150"><b>Databases</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="Databases: MySQL, PostgreSQL" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150"><b>Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman&theme=dark" alt="Tools: Git, GitHub, VS Code, Linux, Postman" />
     </td>
   </tr>
 </table>
 
 </div>
+
+<br>
+
+---
+
+<!-- ========================================================= -->
+<!--                  FEATURED PROJECTS                        -->
+<!-- ========================================================= -->
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏥 Medicore</h3>
+      <p>AI-powered medical management application designed to streamline healthcare operations.</p>
+      <p><b>Tech:</b> Flutter · Dart · Firebase</p>
+      <a href="#"><img src="https://img.shields.io/badge/Repository-YOUR_REPOSITORY_LINK-0D1117?style=flat-square&logo=github&logoColor=00B4D8" alt="Medicore Repository" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🖥️ NazzOS</h3>
+      <p>Operating System simulator implementing core OS concepts.</p>
+      <p><b>Concepts:</b> Scheduling Algorithms · Memory Management · File System · Disk Scheduling · Synchronization</p>
+      <p><b>Tech:</b> Python</p>
+      <a href="#"><img src="https://img.shields.io/badge/Repository-YOUR_REPOSITORY_LINK-0D1117?style=flat-square&logo=github&logoColor=00B4D8" alt="NazzOS Repository" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏨 Hospital Patient Flow Simulation</h3>
+      <p>Simulation of hospital/ER patient flow under different priorities and scenarios.</p>
+      <p><b>Tech:</b> Python · SimPy</p>
+      <a href="#"><img src="https://img.shields.io/badge/Repository-YOUR_REPOSITORY_LINK-0D1117?style=flat-square&logo=github&logoColor=00B4D8" alt="Hospital Patient Flow Simulation Repository" /></a>
+    </td>
+    <td width="50%" valign="top">
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br>
+
+---
+
+<!-- ========================================================= -->
+<!--              COMPETITIVE PROGRAMMING                      -->
+<!-- ========================================================= -->
+
+<h2 align="center">🏆 Competitive Programming</h2>
+
+<p align="center">
+  I actively practice problem-solving on the following platforms:
+</p>
+
+<p align="center">
+  <a href="https://codeforces.com/"><img src="https://img.shields.io/badge/Codeforces-0D1117?style=for-the-badge&logo=codeforces&logoColor=00B4D8" alt="Codeforces" /></a>
+  &nbsp;
+  <a href="https://www.beecrowd.com/"><img src="https://img.shields.io/badge/Beecrowd-0D1117?style=for-the-badge&logo=beecrowd&logoColor=00B4D8" alt="Beecrowd" /></a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-0D1117?style=for-the-badge&logo=hackerrank&logoColor=00B4D8" alt="HackerRank" /></a>
+</p>
 
 <br>
 
@@ -100,6 +218,12 @@
   <a href="https://github.com/Sakib2405">
     <img src="https://streak-stats.demolab.com/?user=Sakib2405&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8" width="98%" alt="GitHub Streak" />
   </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakib2405&bg_color=0D1117&color=00B4D8&line=0077B6&point=FFFFFF&area=true&hide_border=true&border_color=00B4D8" width="98%" alt="Contribution Activity Graph" />
 </div>
 
 <br>
@@ -155,6 +279,8 @@
 </p>
 
 <br>
+
+---
 
 <!-- ========================================================= -->
 <!--                          FOOTER                           -->
