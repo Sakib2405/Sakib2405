@@ -1,5 +1,7 @@
 <!-- ========================================================= -->
+
 <!--                         HERO                              -->
+
 <!-- ========================================================= -->
 
 <div align="center">
@@ -30,7 +32,9 @@
 ---
 
 <!-- ========================================================= -->
+
 <!--                        ABOUT ME                           -->
+
 <!-- ========================================================= -->
 
 <h2 align="center">👨‍💻 About Me</h2>
@@ -47,6 +51,7 @@
     🏆 Competitive Programming on <b>Codeforces, Beecrowd & HackerRank</b><br>
     🚀 Constantly learning, building scalable products, and solving complex problems.
   </p>
+
   <p><b>🎯 Target:</b> Build impact-driven, production-ready software solutions.</p>
 </div>
 
@@ -55,15 +60,17 @@
 ---
 
 <!-- ========================================================= -->
+
 <!--                      EDUCATION                            -->
+
 <!-- ========================================================= -->
 
 <h2 align="center">🎓 Education</h2>
 
 <div align="center">
 
-| Institution | Program | Status |
-|:---|:---|:---|
+| Institution                                             | Program                                 | Status     |
+| :------------------------------------------------------ | :-------------------------------------- | :--------- |
 | **Patuakhali Science and Technology University (PSTU)** | B.Sc. in Computer Science & Engineering | Final Year |
 
 </div>
@@ -73,22 +80,24 @@
 ---
 
 <!-- ========================================================= -->
+
 <!--                    CURRENT FOCUS                          -->
+
 <!-- ========================================================= -->
 
 <h2 align="center">🎯 Currently Focused On</h2>
 
 <div align="center">
 
-| Area | Details |
-|:---|:---|
-| **Software Engineering** | Designing maintainable, scalable software systems |
-| **Flutter / Dart** | Cross-platform application development |
-| **Firebase** | Backend services, authentication & real-time data |
-| **Algorithms & Data Structures** | Problem-solving and optimization |
-| **System Design** | Architecting production-ready systems |
-| **AI-powered Applications** | Integrating intelligent features into software |
-| **Competitive Programming** | Codeforces, Beecrowd & HackerRank |
+| Area                             | Details                                           |
+| :------------------------------- | :------------------------------------------------ |
+| **Software Engineering**         | Designing maintainable, scalable software systems |
+| **Flutter / Dart**               | Cross-platform application development            |
+| **Firebase**                     | Backend services, authentication & real-time data |
+| **Algorithms & Data Structures** | Problem-solving and optimization                  |
+| **System Design**                | Architecting production-ready systems             |
+| **AI-powered Applications**      | Integrating intelligent features into software    |
+| **Competitive Programming**      | Codeforces, Beecrowd & HackerRank                 |
 
 </div>
 
@@ -97,7 +106,9 @@
 ---
 
 <!-- ========================================================= -->
+
 <!--                    TECH STACK                             -->
+
 <!-- ========================================================= -->
 
 <h2 align="center">🛠️ Tech Stack & Tooling</h2>
@@ -111,18 +122,21 @@
       <img src="https://skillicons.dev/icons?i=dart,python,php,c,cpp,java,js,html,css&theme=dark" alt="Languages: Dart, Python, PHP, C, C++, Java, JavaScript, HTML, CSS" />
     </td>
   </tr>
+
   <tr>
     <td align="center" width="150"><b>Frameworks & Platforms</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=flutter,firebase&theme=dark" alt="Frameworks: Flutter, Firebase" />
     </td>
   </tr>
+
   <tr>
     <td align="center" width="150"><b>Databases</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="Databases: MySQL, PostgreSQL" />
     </td>
   </tr>
+
   <tr>
     <td align="center" width="150"><b>Tools</b></td>
     <td>
@@ -138,7 +152,9 @@
 ---
 
 <!-- ========================================================= -->
+
 <!--                  FEATURED PROJECTS                        -->
+
 <!-- ========================================================= -->
 
 <h2 align="center">🚀 Featured Projects</h2>
@@ -146,31 +162,111 @@
 <div align="center">
 
 <table>
+
   <tr>
-    <td width="50%" valign="top">
-      <h3>🏥 Medicore</h3>
-      <p>AI-powered medical management application designed to streamline healthcare operations.</p>
-      <p><b>Tech:</b> Flutter · Dart · Firebase</p>
-      <a href="#"><img src="https://img.shields.io/badge/Repository-YOUR_REPOSITORY_LINK-0D1117?style=flat-square&logo=github&logoColor=00B4D8" alt="Medicore Repository" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🖥️ NazzOS</h3>
-      <p>Operating System simulator implementing core OS concepts.</p>
-      <p><b>Concepts:</b> Scheduling Algorithms · Memory Management · File System · Disk Scheduling · Synchronization</p>
-      <p><b>Tech:</b> Python</p>
-      <a href="#"><img src="https://img.shields.io/badge/Repository-YOUR_REPOSITORY_LINK-0D1117?style=flat-square&logo=github&logoColor=00B4D8" alt="NazzOS Repository" /></a>
-    </td>
+
+```
+<!-- Medicore -->
+<td width="50%" valign="top">
+
+  <h3>🏥 Medicore</h3>
+
+  <p>
+    A modern <b>Flutter & Firebase-based healthcare management application</b>
+    designed for patients, doctors, and administrators.
+  </p>
+
+  <p>
+    <b>Tech:</b> Flutter · Dart · Firebase · AI · Firestore
+  </p>
+
+  <p>
+    <a href="https://github.com/Sakib2405/medicore">
+      <img
+        src="https://img.shields.io/badge/View%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=00B4D8"
+        alt="Medicore Repository"
+      />
+    </a>
+  </p>
+
+</td>
+
+<!-- Hospital Patient Flow Simulation -->
+<td width="50%" valign="top">
+
+  <h3>🏨 Hospital Patient Flow Simulation</h3>
+
+  <p>
+    A <b>discrete-event hospital simulation</b> built with Python and SimPy,
+    modeling patient flow through ER, Ward, Diagnostics, and Discharge
+    under realistic resource constraints.
+  </p>
+
+  <p>
+    <b>Tech:</b> Python · SimPy · Discrete-Event Simulation
+  </p>
+
+  <p>
+    <a href="https://github.com/Sakib2405/Hospital-patient-flow-simulation">
+      <img
+        src="https://img.shields.io/badge/View%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=00B4D8"
+        alt="Hospital Patient Flow Simulation Repository"
+      />
+    </a>
+  </p>
+
+</td>
+```
+
   </tr>
+
   <tr>
-    <td width="50%" valign="top">
-      <h3>🏨 Hospital Patient Flow Simulation</h3>
-      <p>Simulation of hospital/ER patient flow under different priorities and scenarios.</p>
-      <p><b>Tech:</b> Python · SimPy</p>
-      <a href="#"><img src="https://img.shields.io/badge/Repository-YOUR_REPOSITORY_LINK-0D1117?style=flat-square&logo=github&logoColor=00B4D8" alt="Hospital Patient Flow Simulation Repository" /></a>
-    </td>
-    <td width="50%" valign="top">
-    </td>
+
+```
+<!-- Rice Mill Management -->
+<td width="50%" valign="top">
+
+  <h3>🌾 Rice Mill Management</h3>
+
+  <p>
+    An <b>automated rice mill management system</b> developed with
+    C# and the .NET framework, using SQL Server for database management.
+  </p>
+
+  <p>
+    <b>Tech:</b> C# · .NET Framework · SQL Server
+  </p>
+
+  <p>
+    <a href="https://github.com/Sakib2405/Rice_Mill_Management">
+      <img
+        src="https://img.shields.io/badge/View%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=00B4D8"
+        alt="Rice Mill Management Repository"
+      />
+    </a>
+  </p>
+
+</td>
+
+<!-- More Projects -->
+<td width="50%" valign="top">
+
+  <h3>💡 More Projects Coming Soon</h3>
+
+  <p>
+    Continuously building and experimenting with new software,
+    simulation, AI, and system-oriented projects.
+  </p>
+
+  <p>
+    <b>Focus:</b> Software Engineering · AI · System Design · Problem Solving
+  </p>
+
+</td>
+```
+
   </tr>
+
 </table>
 
 </div>
@@ -180,7 +276,9 @@
 ---
 
 <!-- ========================================================= -->
+
 <!--              COMPETITIVE PROGRAMMING                      -->
+
 <!-- ========================================================= -->
 
 <h2 align="center">🏆 Competitive Programming</h2>
@@ -202,28 +300,37 @@
 ---
 
 <!-- ========================================================= -->
+
 <!--                    GITHUB METRICS                         -->
+
 <!-- ========================================================= -->
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
+
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sakib2405&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&title_color=00B4D8&icon_color=00B4D8&text_color=9CA3AF&bg_color=0D1117&cache_seconds=1800" width="49%" alt="GitHub Stats" />
+
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sakib2405&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=00B4D8&text_color=9CA3AF&bg_color=0D1117&cache_seconds=1800" width="49%" alt="Top Languages" />
+
 </div>
 
 <br>
 
 <div align="center">
+
   <a href="https://github.com/Sakib2405">
     <img src="https://streak-stats.demolab.com/?user=Sakib2405&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8" width="98%" alt="GitHub Streak" />
   </a>
+
 </div>
 
 <br>
 
 <div align="center">
+
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakib2405&theme=tokyonight" width="98%" alt="GitHub Activity Overview" />
+
 </div>
 
 <br>
@@ -231,7 +338,9 @@
 ---
 
 <!-- ========================================================= -->
-<!--                  CONTRIBUTION SNAKE                       -->
+
+<!--              CONTRIBUTION SNAKE                           -->
+
 <!-- ========================================================= -->
 
 <h2 align="center">🐍 Contribution Activity</h2>
@@ -239,9 +348,23 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sakib2405/Sakib2405/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sakib2405/Sakib2405/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/Sakib2405/Sakib2405/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
+
+<source
+ media="(prefers-color-scheme: dark)"
+ srcset="https://raw.githubusercontent.com/Sakib2405/Sakib2405/output/github-contribution-grid-snake-dark.svg"
+/>
+
+<source
+ media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/Sakib2405/Sakib2405/output/github-contribution-grid-snake.svg"
+/>
+
+<img
+ src="https://raw.githubusercontent.com/Sakib2405/Sakib2405/output/github-contribution-grid-snake.svg"
+ alt="Contribution Snake"
+ width="100%"
+/>
+
 </picture>
 
 </div>
@@ -251,31 +374,58 @@
 ---
 
 <!-- ========================================================= -->
+
 <!--                    CONNECT WITH ME                        -->
+
 <!-- ========================================================= -->
 
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
+
   <a href="https://www.linkedin.com/in/nazmus-sakib-b4302b277/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
-  &nbsp;
+
+ 
+
   <a href="https://www.facebook.com/profile.php?id=100074615715612">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img
+      src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+      alt="Facebook"
+    />
   </a>
-  &nbsp;
+
+ 
+
   <a href="https://twitter.com/NazmusS99698031">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    <img
+      src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"
+      alt="X"
+    />
   </a>
-  &nbsp;
+
+ 
+
   <a href="https://www.instagram.com/nazmus_sakib_2405/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Instagram"
+    />
   </a>
-  &nbsp;
+
+ 
+
   <a href="mailto:ug2102066@cse.pstu.ac.bd">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img
+      src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail"
+    />
   </a>
+
 </p>
 
 <br>
@@ -283,17 +433,26 @@
 ---
 
 <!-- ========================================================= -->
+
 <!--                          FOOTER                           -->
+
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,50:161B22,100:0D1117&height=130&section=footer" width="100%" alt="Footer Wave" />
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,50:161B22,100:0D1117&height=130&section=footer"
+width="100%"
+alt="Footer Wave"
+/>
 
 <h3>⚡ Build • Solve • Scale • Evolve</h3>
 
 <a href="https://github.com/Sakib2405">
-  <img src="https://img.shields.io/badge/Visit_GitHub_Profile-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Visit Profile" />
+  <img
+    src="https://img.shields.io/badge/Visit_GitHub_Profile-161B22?style=for-the-badge&logo=github&logoColor=white"
+    alt="Visit Profile"
+  />
 </a>
 
 <br><br>
