@@ -52,20 +52,56 @@
   </a>.
 </p>
 
+<br>
+
 <div align="center">
 
-<p>
-  💻 Passionate about <b>Software Engineering, Algorithms & System Design</b><br>
-  🌱 Specialized in <b>Dart, Python, PHP, Java, C/C++ & Full-Stack Development</b><br>
-  🏆 Competitive Programming on <b>Codeforces, Beecrowd & HackerRank</b><br>
-  🚀 Constantly learning, building scalable products, and solving complex problems.
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">💻 What I Do</h3>
+
+<p align="center">
+Software Engineering<br>
+Algorithms & Data Structures<br>
+Mobile Application Development<br>
+Backend & Database Systems<br>
+System Design
 </p>
 
-<p>
-  <b>🎯 Target:</b> Build impact-driven, production-ready software solutions.
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🚀 What I Build</h3>
+
+<p align="center">
+Flutter Applications<br>
+Firebase-powered Systems<br>
+AI-powered Applications<br>
+Simulation Systems<br>
+Management Software
 </p>
+
+</td>
+
+</tr>
+</table>
 
 </div>
+
+<br>
+
+<p align="center">
+  🏆 Competitive Programming on <b>Codeforces, Beecrowd & HackerRank</b><br>
+  🌱 Constantly learning, building scalable products, and solving complex problems.
+</p>
+
+<p align="center">
+  <b>🎯 Goal:</b> Build impact-driven, production-ready software solutions.
+</p>
 
 <br>
 
@@ -97,15 +133,48 @@
 
 <div align="center">
 
-| Area | Details |
-|:---|:---|
-| **Software Engineering** | Designing maintainable, scalable software systems |
-| **Flutter / Dart** | Cross-platform application development |
-| **Firebase** | Backend services, authentication & real-time data |
-| **Algorithms & Data Structures** | Problem-solving and optimization |
-| **System Design** | Architecting production-ready systems |
-| **AI-powered Applications** | Integrating intelligent features into software |
-| **Competitive Programming** | Codeforces, Beecrowd & HackerRank |
+<table>
+<tr>
+<td align="center"><b>Area</b></td>
+<td align="center"><b>Details</b></td>
+</tr>
+
+<tr>
+<td><b>Software Engineering</b></td>
+<td>Designing maintainable and scalable software systems</td>
+</tr>
+
+<tr>
+<td><b>Flutter / Dart</b></td>
+<td>Cross-platform application development</td>
+</tr>
+
+<tr>
+<td><b>Firebase</b></td>
+<td>Backend services, authentication & real-time data</td>
+</tr>
+
+<tr>
+<td><b>Algorithms & Data Structures</b></td>
+<td>Problem-solving and optimization</td>
+</tr>
+
+<tr>
+<td><b>System Design</b></td>
+<td>Architecting production-ready systems</td>
+</tr>
+
+<tr>
+<td><b>AI-powered Applications</b></td>
+<td>Integrating intelligent features into software</td>
+</tr>
+
+<tr>
+<td><b>Competitive Programming</b></td>
+<td>Codeforces, Beecrowd & HackerRank</td>
+</tr>
+
+</table>
 
 </div>
 
@@ -124,39 +193,39 @@
 <table>
 
 <tr>
-  <td align="center" width="150">
-    <b>Languages</b>
-  </td>
-  <td>
-    <img src="https://skillicons.dev/icons?i=dart,python,php,c,cpp,java,js,html,css&theme=dark" alt="Languages: Dart, Python, PHP, C, C++, Java, JavaScript, HTML, CSS" />
-  </td>
+<td align="center" width="150">
+<b>Languages</b>
+</td>
+<td>
+<img src="https://skillicons.dev/icons?i=dart,python,php,c,cpp,java,js,html,css&theme=dark" alt="Programming Languages" />
+</td>
 </tr>
 
 <tr>
-  <td align="center" width="150">
-    <b>Frameworks & Platforms</b>
-  </td>
-  <td>
-    <img src="https://skillicons.dev/icons?i=flutter,firebase&theme=dark" alt="Frameworks: Flutter, Firebase" />
-  </td>
+<td align="center" width="150">
+<b>Frameworks & Platforms</b>
+</td>
+<td>
+<img src="https://skillicons.dev/icons?i=flutter,firebase&theme=dark" alt="Frameworks and Platforms" />
+</td>
 </tr>
 
 <tr>
-  <td align="center" width="150">
-    <b>Databases</b>
-  </td>
-  <td>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="Databases: MySQL, PostgreSQL" />
-  </td>
+<td align="center" width="150">
+<b>Databases</b>
+</td>
+<td>
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="Databases" />
+</td>
 </tr>
 
 <tr>
-  <td align="center" width="150">
-    <b>Tools</b>
-  </td>
-  <td>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman&theme=dark" alt="Tools: Git, GitHub, VS Code, Linux, Postman" />
-  </td>
+<td align="center" width="150">
+<b>Tools</b>
+</td>
+<td>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman&theme=dark" alt="Development Tools" />
+</td>
 </tr>
 
 </table>
@@ -179,8 +248,6 @@
 </p>
 
 <br>
-
-<div align="center">
 
 <!-- ========================= MEDICORE ========================= -->
 
@@ -339,8 +406,6 @@ projects are currently being developed.
 </tr>
 </table>
 
-</div>
-
 <br>
 
 ---
@@ -358,28 +423,19 @@ projects are currently being developed.
 <p align="center">
 
 <a href="https://codeforces.com/">
-<img
-src="https://img.shields.io/badge/Codeforces-0D1117?style=for-the-badge&logo=codeforces&logoColor=00B4D8"
-alt="Codeforces"
-/>
+<img src="https://img.shields.io/badge/Codeforces-0D1117?style=for-the-badge&logo=codeforces&logoColor=00B4D8" alt="Codeforces"/>
 </a>
 
 &nbsp;
 
 <a href="https://www.beecrowd.com/">
-<img
-src="https://img.shields.io/badge/Beecrowd-0D1117?style=for-the-badge&logo=beecrowd&logoColor=00B4D8"
-alt="Beecrowd"
-/>
+<img src="https://img.shields.io/badge/Beecrowd-0D1117?style=for-the-badge&logo=beecrowd&logoColor=00B4D8" alt="Beecrowd"/>
 </a>
 
 &nbsp;
 
 <a href="https://www.hackerrank.com/">
-<img
-src="https://img.shields.io/badge/HackerRank-0D1117?style=for-the-badge&logo=hackerrank&logoColor=00B4D8"
-alt="HackerRank"
-/>
+<img src="https://img.shields.io/badge/HackerRank-0D1117?style=for-the-badge&logo=hackerrank&logoColor=00B4D8" alt="HackerRank"/>
 </a>
 
 </p>
@@ -443,10 +499,110 @@ alt="GitHub Activity Overview"
 ---
 
 <!-- ========================================================= -->
+<!--                  DEVELOPER HIGHLIGHTS                     -->
+<!-- ========================================================= -->
+
+<h2 align="center">💡 Developer Highlights</h2>
+
+<p align="center">
+  A quick overview of the areas I enjoy working on and continuously improving.
+</p>
+
+<br>
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center" width="25%">
+
+<h3>💻</h3>
+
+<b>Software</b>
+
+<br><br>
+
+Clean Architecture<br>
+Scalable Systems<br>
+Problem Solving
+
+</td>
+
+<td align="center" width="25%">
+
+<h3>📱</h3>
+
+<b>Applications</b>
+
+<br><br>
+
+Flutter Apps<br>
+Firebase Systems<br>
+AI Integration
+
+</td>
+
+<td align="center" width="25%">
+
+<h3>🧠</h3>
+
+<b>Problem Solving</b>
+
+<br><br>
+
+Algorithms<br>
+Data Structures<br>
+Competitive Programming
+
+</td>
+
+<td align="center" width="25%">
+
+<h3>🚀</h3>
+
+<b>Growth</b>
+
+<br><br>
+
+Continuous Learning<br>
+Open Source<br>
+New Technologies
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Focus-Software%20Engineering-00B4D8?style=for-the-badge">
+<img src="https://img.shields.io/badge/Build-Scalable%20Applications-0077B6?style=for-the-badge">
+<img src="https://img.shields.io/badge/Learn-Modern%20Technology-161B22?style=for-the-badge">
+
+</div>
+
+<br>
+
+---
+
+<!-- ========================================================= -->
 <!--              CONTRIBUTION SNAKE                           -->
 <!-- ========================================================= -->
 
 <h2 align="center">🐍 Contribution Activity</h2>
+
+<p align="center">
+  <i>Turning contributions into something that moves.</i>
+</p>
+
+<br>
 
 <div align="center">
 
@@ -464,7 +620,7 @@ srcset="https://raw.githubusercontent.com/Sakib2405/Sakib2405/output/github-cont
 
 <img
 src="https://raw.githubusercontent.com/Sakib2405/Sakib2405/output/github-contribution-grid-snake.svg"
-alt="Contribution Snake"
+alt="GitHub Contribution Snake"
 width="100%"
 />
 
@@ -477,57 +633,140 @@ width="100%"
 ---
 
 <!-- ========================================================= -->
-<!--                    CONNECT WITH ME                        -->
+<!--                 CONNECT WITH ME                           -->
 <!-- ========================================================= -->
 
-<h2 align="center">🌐 Connect With Me</h2>
+<h2 align="center">🌐 Let's Connect</h2>
 
 <p align="center">
+  <b>Have an idea, project, or opportunity?</b><br>
+  I'd be happy to connect, collaborate, and build something meaningful.
+</p>
+
+<br>
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center" width="50%">
+
+<h3>💼 Professional</h3>
+
+<br>
 
 <a href="https://www.linkedin.com/in/nazmus-sakib-b4302b277/">
 <img
-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
 alt="LinkedIn"
 />
 </a>
 
-&nbsp;
+<br><br>
 
-<a href="https://www.facebook.com/profile.php?id=100074615715612">
+<a href="mailto:ug2102066@cse.pstu.ac.bd">
 <img
-src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
-alt="Facebook"
+src="https://img.shields.io/badge/Email-Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+alt="Email"
 />
 </a>
 
-&nbsp;
+<br><br>
+
+<a href="https://github.com/Sakib2405">
+<img
+src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-161B22?style=for-the-badge&logo=github&logoColor=white"
+alt="GitHub"
+/>
+</a>
+
+</td>
+
+<td align="center" width="50%">
+
+<h3>🌎 Social</h3>
+
+<br>
 
 <a href="https://twitter.com/NazmusS99698031">
 <img
-src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"
+src="https://img.shields.io/badge/X-Follow%20me-000000?style=for-the-badge&logo=x&logoColor=white"
 alt="X"
 />
 </a>
 
-&nbsp;
+<br><br>
+
+<a href="https://www.facebook.com/profile.php?id=100074615715612">
+<img
+src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+alt="Facebook"
+/>
+</a>
+
+<br><br>
 
 <a href="https://www.instagram.com/nazmus_sakib_2405/">
 <img
-src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
 alt="Instagram"
 />
 </a>
 
-&nbsp;
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center">
+
+<h3>🤝 Open to Collaboration</h3>
+
+<p>
+<b>Software Projects</b>
+&nbsp; • &nbsp;
+<b>Open Source</b>
+&nbsp; • &nbsp;
+<b>AI Projects</b>
+&nbsp; • &nbsp;
+<b>Mobile Development</b>
+&nbsp; • &nbsp;
+<b>Learning Opportunities</b>
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
 
 <a href="mailto:ug2102066@cse.pstu.ac.bd">
 <img
-src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-alt="Gmail"
+src="https://img.shields.io/badge/📩%20Let's%20Build%20Something%20Together-00B4D8?style=for-the-badge&logoColor=white"
+alt="Let's Build Something Together"
 />
 </a>
 
-</p>
+</div>
 
 <br>
 
@@ -556,6 +795,8 @@ alt="Visit Profile"
 
 <br><br>
 
-<sub>Designed with precision for <b>Nazmus Sakib</b></sub>
+<sub>
+Designed with precision for <b>Nazmus Sakib</b>
+</sub>
 
 </div>
