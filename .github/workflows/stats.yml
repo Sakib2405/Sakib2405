@@ -3,7 +3,6 @@ name: Update GitHub Stats
 on:
   schedule:
     - cron: "0 0 * * *"
-
   workflow_dispatch:
 
 jobs:
@@ -22,7 +21,7 @@ jobs:
         with:
           card: stats
           options: username=Sakib2405&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true
-          path: profile/stats.svg
+          path: stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate Top Languages
@@ -30,7 +29,7 @@ jobs:
         with:
           card: top-langs
           options: username=Sakib2405&layout=compact&langs_count=8&theme=tokyonight&hide_border=true
-          path: profile/top-langs.svg
+          path: top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit generated cards
@@ -38,7 +37,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add profile/*.svg
+          git add stats.svg top-langs.svg
 
           git diff --cached --quiet || git commit -m "Update GitHub stats"
 
