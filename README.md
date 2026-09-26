@@ -18,6 +18,7 @@
 </p>
 
 <p align="center">
+
   <a href="https://github.com/Sakib2405">
     <img src="https://img.shields.io/badge/GitHub-Sakib2405-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -29,6 +30,7 @@
   <a href="https://github.com/Sakib2405?tab=repositories">
     <img src="https://img.shields.io/github/stars/Sakib2405?style=for-the-badge&label=Stars&logo=github&color=00B4D8" alt="Stars" />
   </a>
+
 </p>
 
 </div>
@@ -52,16 +54,16 @@
 
 <div align="center">
 
-  <p>
-    💻 Passionate about <b>Software Engineering, Algorithms & System Design</b><br>
-    🌱 Specialized in <b>Dart, Python, PHP, Java, C/C++ & Full-Stack Development</b><br>
-    🏆 Competitive Programming on <b>Codeforces, Beecrowd & HackerRank</b><br>
-    🚀 Constantly learning, building scalable products, and solving complex problems.
-  </p>
+<p>
+  💻 Passionate about <b>Software Engineering, Algorithms & System Design</b><br>
+  🌱 Specialized in <b>Dart, Python, PHP, Java, C/C++ & Full-Stack Development</b><br>
+  🏆 Competitive Programming on <b>Codeforces, Beecrowd & HackerRank</b><br>
+  🚀 Constantly learning, building scalable products, and solving complex problems.
+</p>
 
-  <p>
-    <b>🎯 Target:</b> Build impact-driven, production-ready software solutions.
-  </p>
+<p>
+  <b>🎯 Target:</b> Build impact-driven, production-ready software solutions.
+</p>
 
 </div>
 
@@ -120,41 +122,43 @@
 <div align="center">
 
 <table>
-  <tr>
-    <td align="center" width="150">
-      <b>Languages</b>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=dart,python,php,c,cpp,java,js,html,css&theme=dark" alt="Languages: Dart, Python, PHP, C, C++, Java, JavaScript, HTML, CSS" />
-    </td>
-  </tr>
 
-  <tr>
-    <td align="center" width="150">
-      <b>Frameworks & Platforms</b>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=flutter,firebase&theme=dark" alt="Frameworks: Flutter, Firebase" />
-    </td>
-  </tr>
+<tr>
+  <td align="center" width="150">
+    <b>Languages</b>
+  </td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=dart,python,php,c,cpp,java,js,html,css&theme=dark" alt="Languages: Dart, Python, PHP, C, C++, Java, JavaScript, HTML, CSS" />
+  </td>
+</tr>
 
-  <tr>
-    <td align="center" width="150">
-      <b>Databases</b>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="Databases: MySQL, PostgreSQL" />
-    </td>
-  </tr>
+<tr>
+  <td align="center" width="150">
+    <b>Frameworks & Platforms</b>
+  </td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=flutter,firebase&theme=dark" alt="Frameworks: Flutter, Firebase" />
+  </td>
+</tr>
 
-  <tr>
-    <td align="center" width="150">
-      <b>Tools</b>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman&theme=dark" alt="Tools: Git, GitHub, VS Code, Linux, Postman" />
-    </td>
-  </tr>
+<tr>
+  <td align="center" width="150">
+    <b>Databases</b>
+  </td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="Databases: MySQL, PostgreSQL" />
+  </td>
+</tr>
+
+<tr>
+  <td align="center" width="150">
+    <b>Tools</b>
+  </td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman&theme=dark" alt="Tools: Git, GitHub, VS Code, Linux, Postman" />
+  </td>
+</tr>
+
 </table>
 
 </div>
@@ -169,133 +173,170 @@
 
 <h2 align="center">🚀 Featured Projects</h2>
 
+<p align="center">
+  A selection of projects showcasing my experience in
+  <b>Software Engineering, Mobile Development, Simulation & Database Systems</b>.
+</p>
+
+<br>
+
 <div align="center">
 
+<!-- ========================= MEDICORE ========================= -->
+
 <table>
+<tr>
 
-  <tr>
+<td width="100%" valign="top">
 
-    <!-- ===================== MEDICORE ====================== -->
+<h3>🏥 Medicore — Healthcare Management Platform</h3>
 
-    <td width="50%" valign="top">
+<p>
+A modern <b>Flutter & Firebase-based healthcare management application</b>
+built to connect <b>patients, doctors, and administrators</b> through a
+unified digital healthcare platform.
+</p>
 
-      <h3>🏥 Medicore</h3>
+<p>
+🔹 Patient & Doctor Management &nbsp; • &nbsp;
+🔹 Firebase Authentication &nbsp; • &nbsp;
+🔹 Firestore Database &nbsp; • &nbsp;
+🔹 AI-powered Features
+</p>
 
-      <p>
-        A modern <b>Flutter and Firebase-based healthcare management application</b>
-        designed for patients, doctors, and administrators.
-      </p>
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white">
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black">
+<img src="https://img.shields.io/badge/AI-00B4D8?style=flat-square&logo=google-gemini&logoColor=white">
+</p>
 
-      <p>
-        <b>Tech:</b> Flutter · Dart · Firebase · AI · Firestore
-      </p>
+<p>
+<a href="https://github.com/Sakib2405/medicore">
+<img src="https://img.shields.io/badge/🔗%20Explore%20Repository-00B4D8?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
 
-      <p>
-        <a href="https://github.com/Sakib2405/medicore">
-          <img
-            src="https://img.shields.io/badge/View%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=00B4D8"
-            alt="Medicore Repository"
-          />
-        </a>
-      </p>
+</td>
 
-    </td>
+</tr>
+</table>
 
-    <!-- ========== HOSPITAL PATIENT FLOW SIMULATION ========== -->
+<br>
 
-    <td width="50%" valign="top">
+<!-- ========================= HOSPITAL ========================= -->
 
-      <h3>🏨 Hospital Patient Flow Simulation</h3>
+<table>
+<tr>
 
-      <p>
-        A <b>discrete-event simulation</b> of hospital patient flow built
-        using Python and the SimPy framework.
-      </p>
+<td width="100%" valign="top">
 
-      <p>
-        Models patient movement through <b>Emergency Room, Ward,
-        Diagnostics, and Discharge</b> under realistic constraints.
-      </p>
+<h3>🏨 Hospital Patient Flow Simulation</h3>
 
-      <p>
-        <b>Tech:</b> Python · SimPy · Discrete-Event Simulation
-      </p>
+<p>
+A <b>discrete-event hospital simulation</b> developed with
+<b>Python & SimPy</b> to model realistic patient movement through
+different hospital departments.
+</p>
 
-      <p>
-        <a href="https://github.com/Sakib2405/Hospital-patient-flow-simulation">
-          <img
-            src="https://img.shields.io/badge/View%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=00B4D8"
-            alt="Hospital Patient Flow Simulation Repository"
-          />
-        </a>
-      </p>
+<p>
+🔹 Emergency Room &nbsp; • &nbsp;
+🔹 Ward &nbsp; • &nbsp;
+🔹 Diagnostics &nbsp; • &nbsp;
+🔹 Discharge
+</p>
 
-    </td>
+<p>
+The simulation considers <b>patient arrival rates, resource limitations,
+priorities, waiting times, and hospital workflow constraints</b>.
+</p>
 
-  </tr>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/SimPy-2C3E50?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Discrete--Event%20Simulation-0077B6?style=flat-square">
+</p>
 
-  <tr>
+<p>
+<a href="https://github.com/Sakib2405/Hospital-patient-flow-simulation">
+<img src="https://img.shields.io/badge/🔗%20Explore%20Repository-00B4D8?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
 
-    <!-- ================= RICE MILL MANAGEMENT ================= -->
+</td>
 
-    <td width="50%" valign="top">
+</tr>
+</table>
 
-      <h3>🌾 Rice Mill Management</h3>
+<br>
 
-      <p>
-        An <b>automated rice mill management system</b> developed using
-        C# and the .NET Framework with SQL Server as the database.
-      </p>
+<!-- ========================= RICE MILL ========================= -->
 
-      <p>
-        Designed to manage rice mill operations and related business data
-        through a structured desktop management system.
-      </p>
+<table>
+<tr>
 
-      <p>
-        <b>Tech:</b> C# · .NET Framework · SQL Server
-      </p>
+<td width="100%" valign="top">
 
-      <p>
-        <a href="https://github.com/Sakib2405/Rice_Mill_Management">
-          <img
-            src="https://img.shields.io/badge/View%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=00B4D8"
-            alt="Rice Mill Management Repository"
-          />
-        </a>
-      </p>
+<h3>🌾 Rice Mill Management System</h3>
 
-    </td>
+<p>
+An <b>automated rice mill management system</b> developed using
+<b>C# and .NET Framework</b>, with <b>SQL Server</b> powering the
+database layer.
+</p>
 
-    <!-- ================= MORE PROJECTS ================= -->
+<p>
+🔹 Mill Operations &nbsp; • &nbsp;
+🔹 Database Management &nbsp; • &nbsp;
+🔹 Business Data Processing &nbsp; • &nbsp;
+🔹 Automated Management Workflow
+</p>
 
-    <td width="50%" valign="top">
+<p>
+Designed to provide a structured solution for managing
+rice mill operations and business-related information.
+</p>
 
-      <h3>💡 More Projects Coming Soon</h3>
+<p>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white">
+<img src="https://img.shields.io/badge/.NET%20Framework-512BD4?style=flat-square&logo=.net&logoColor=white">
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white">
+</p>
 
-      <p>
-        Continuously building and experimenting with new software,
-        simulation, AI, and system-oriented projects.
-      </p>
+<p>
+<a href="https://github.com/Sakib2405/Rice_Mill_Management">
+<img src="https://img.shields.io/badge/🔗%20Explore%20Repository-00B4D8?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
 
-      <p>
-        <b>Focus:</b>
-        Software Engineering · AI · System Design · Problem Solving
-      </p>
+</td>
 
-      <p>
-        <a href="https://github.com/Sakib2405?tab=repositories">
-          <img
-            src="https://img.shields.io/badge/View%20All%20Repositories-0D1117?style=for-the-badge&logo=github&logoColor=00B4D8"
-            alt="View All Repositories"
-          />
-        </a>
-      </p>
+</tr>
+</table>
 
-    </td>
+<br>
 
-  </tr>
+<!-- ========================= MORE PROJECTS ========================= -->
 
+<table>
+<tr>
+
+<td width="100%" align="center">
+
+<h3>💡 More Projects</h3>
+
+<p>
+More software engineering, AI, simulation and system-oriented
+projects are currently being developed.
+</p>
+
+<a href="https://github.com/Sakib2405?tab=repositories">
+<img src="https://img.shields.io/badge/📂%20View%20All%20Repositories-161B22?style=for-the-badge&logo=github&logoColor=00B4D8">
+</a>
+
+</td>
+
+</tr>
 </table>
 
 </div>
@@ -316,30 +357,30 @@
 
 <p align="center">
 
-  <a href="https://codeforces.com/">
-    <img
-      src="https://img.shields.io/badge/Codeforces-0D1117?style=for-the-badge&logo=codeforces&logoColor=00B4D8"
-      alt="Codeforces"
-    />
-  </a>
+<a href="https://codeforces.com/">
+<img
+src="https://img.shields.io/badge/Codeforces-0D1117?style=for-the-badge&logo=codeforces&logoColor=00B4D8"
+alt="Codeforces"
+/>
+</a>
 
-  &nbsp;
+&nbsp;
 
-  <a href="https://www.beecrowd.com/">
-    <img
-      src="https://img.shields.io/badge/Beecrowd-0D1117?style=for-the-badge&logo=beecrowd&logoColor=00B4D8"
-      alt="Beecrowd"
-    />
-  </a>
+<a href="https://www.beecrowd.com/">
+<img
+src="https://img.shields.io/badge/Beecrowd-0D1117?style=for-the-badge&logo=beecrowd&logoColor=00B4D8"
+alt="Beecrowd"
+/>
+</a>
 
-  &nbsp;
+&nbsp;
 
-  <a href="https://www.hackerrank.com/">
-    <img
-      src="https://img.shields.io/badge/HackerRank-0D1117?style=for-the-badge&logo=hackerrank&logoColor=00B4D8"
-      alt="HackerRank"
-    />
-  </a>
+<a href="https://www.hackerrank.com/">
+<img
+src="https://img.shields.io/badge/HackerRank-0D1117?style=for-the-badge&logo=hackerrank&logoColor=00B4D8"
+alt="HackerRank"
+/>
+</a>
 
 </p>
 
@@ -355,31 +396,17 @@
 
 <div align="center">
 
-  <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sakib2405&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&title_color=00B4D8&icon_color=00B4D8&text_color=9CA3AF&bg_color=0D1117&cache_seconds=1800"
-    width="49%"
-    alt="GitHub Stats"
-  />
+<img
+src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sakib2405&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&title_color=00B4D8&icon_color=00B4D8&text_color=9CA3AF&bg_color=0D1117&cache_seconds=1800"
+width="49%"
+alt="GitHub Stats"
+/>
 
-  <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sakib2405&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=00B4D8&text_color=9CA3AF&bg_color=0D1117&cache_seconds=1800"
-    width="49%"
-    alt="Top Languages"
-  />
-
-</div>
-
-<br>
-
-<div align="center">
-
-  <a href="https://github.com/Sakib2405">
-    <img
-      src="https://streak-stats.demolab.com/?user=Sakib2405&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8"
-      width="98%"
-      alt="GitHub Streak"
-    />
-  </a>
+<img
+src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sakib2405&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=00B4D8&text_color=9CA3AF&bg_color=0D1117&cache_seconds=1800"
+width="49%"
+alt="Top Languages"
+/>
 
 </div>
 
@@ -387,11 +414,27 @@
 
 <div align="center">
 
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakib2405&theme=tokyonight"
-    width="98%"
-    alt="GitHub Activity Overview"
-  />
+<a href="https://github.com/Sakib2405">
+
+<img
+src="https://streak-stats.demolab.com/?user=Sakib2405&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8"
+width="98%"
+alt="GitHub Streak"
+/>
+
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakib2405&theme=tokyonight"
+width="98%"
+alt="GitHub Activity Overview"
+/>
 
 </div>
 
@@ -409,21 +452,21 @@
 
 <picture>
 
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Sakib2405/Sakib2405/output/github-contribution-grid-snake-dark.svg"
-  />
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/Sakib2405/Sakib2405/output/github-contribution-grid-snake-dark.svg"
+/>
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Sakib2405/Sakib2405/output/github-contribution-grid-snake.svg"
-  />
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/Sakib2405/Sakib2405/output/github-contribution-grid-snake.svg"
+/>
 
-  <img
-    src="https://raw.githubusercontent.com/Sakib2405/Sakib2405/output/github-contribution-grid-snake.svg"
-    alt="Contribution Snake"
-    width="100%"
-  />
+<img
+src="https://raw.githubusercontent.com/Sakib2405/Sakib2405/output/github-contribution-grid-snake.svg"
+alt="Contribution Snake"
+width="100%"
+/>
 
 </picture>
 
@@ -441,48 +484,48 @@
 
 <p align="center">
 
-  <a href="https://www.linkedin.com/in/nazmus-sakib-b4302b277/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
+<a href="https://www.linkedin.com/in/nazmus-sakib-b4302b277/">
+<img
+src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+alt="LinkedIn"
+/>
+</a>
 
-  &nbsp;
+&nbsp;
 
-  <a href="https://www.facebook.com/profile.php?id=100074615715612">
-    <img
-      src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
-      alt="Facebook"
-    />
-  </a>
+<a href="https://www.facebook.com/profile.php?id=100074615715612">
+<img
+src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+alt="Facebook"
+/>
+</a>
 
-  &nbsp;
+&nbsp;
 
-  <a href="https://twitter.com/NazmusS99698031">
-    <img
-      src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"
-      alt="X"
-    />
-  </a>
+<a href="https://twitter.com/NazmusS99698031">
+<img
+src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"
+alt="X"
+/>
+</a>
 
-  &nbsp;
+&nbsp;
 
-  <a href="https://www.instagram.com/nazmus_sakib_2405/">
-    <img
-      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-      alt="Instagram"
-    />
-  </a>
+<a href="https://www.instagram.com/nazmus_sakib_2405/">
+<img
+src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+alt="Instagram"
+/>
+</a>
 
-  &nbsp;
+&nbsp;
 
-  <a href="mailto:ug2102066@cse.pstu.ac.bd">
-    <img
-      src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Gmail"
-    />
-  </a>
+<a href="mailto:ug2102066@cse.pstu.ac.bd">
+<img
+src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+alt="Gmail"
+/>
+</a>
 
 </p>
 
@@ -497,18 +540,18 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,50:161B22,100:0D1117&height=130&section=footer"
-  width="100%"
-  alt="Footer Wave"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,50:161B22,100:0D1117&height=130&section=footer"
+width="100%"
+alt="Footer Wave"
 />
 
 <h3>⚡ Build • Solve • Scale • Evolve</h3>
 
 <a href="https://github.com/Sakib2405">
-  <img
-    src="https://img.shields.io/badge/Visit_GitHub_Profile-161B22?style=for-the-badge&logo=github&logoColor=white"
-    alt="Visit Profile"
-  />
+<img
+src="https://img.shields.io/badge/Visit_GitHub_Profile-161B22?style=for-the-badge&logo=github&logoColor=white"
+alt="Visit Profile"
+/>
 </a>
 
 <br><br>
