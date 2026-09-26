@@ -19,17 +19,17 @@
 
 <p align="center">
 
-  <a href="https://github.com/Sakib2405">
-    <img src="https://img.shields.io/badge/GitHub-Sakib2405-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+<a href="https://github.com/Sakib2405">
+<img src="https://img.shields.io/badge/GitHub-Sakib2405-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
-  <a href="https://github.com/Sakib2405?tab=followers">
-    <img src="https://img.shields.io/github/followers/Sakib2405?style=for-the-badge&label=Followers&logo=github&color=0077B6" alt="Followers" />
-  </a>
+<a href="https://github.com/Sakib2405?tab=followers">
+<img src="https://img.shields.io/github/followers/Sakib2405?style=for-the-badge&label=Followers&logo=github&color=0077B6" alt="Followers" />
+</a>
 
-  <a href="https://github.com/Sakib2405?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Sakib2405?style=for-the-badge&label=Stars&logo=github&color=00B4D8" alt="Stars" />
-  </a>
+<a href="https://github.com/Sakib2405?tab=repositories">
+<img src="https://img.shields.io/github/stars/Sakib2405?style=for-the-badge&label=Stars&logo=github&color=00B4D8" alt="Stars" />
+</a>
 
 </p>
 
@@ -46,10 +46,10 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  I am a <b>Final Year Computer Science & Engineering student</b> at
-  <a href="http://pstu.ac.bd/">
-    <b>Patuakhali Science and Technology University (PSTU)</b>
-  </a>.
+I am a <b>Final Year Computer Science & Engineering student</b> at
+<a href="http://pstu.ac.bd/">
+<b>Patuakhali Science and Technology University (PSTU)</b>
+</a>.
 </p>
 
 <br>
@@ -95,12 +95,12 @@ Management Software
 <br>
 
 <p align="center">
-  🏆 Competitive Programming on <b>Codeforces, Beecrowd & HackerRank</b><br>
-  🌱 Constantly learning, building scalable products, and solving complex problems.
+🏆 Competitive Programming on <b>Codeforces, Beecrowd & HackerRank</b><br>
+🌱 Constantly learning, building scalable products, and solving complex problems.
 </p>
 
 <p align="center">
-  <b>🎯 Goal:</b> Build impact-driven, production-ready software solutions.
+<b>🎯 Goal:</b> Build impact-driven, production-ready software solutions.
 </p>
 
 <br>
@@ -134,6 +134,7 @@ Management Software
 <div align="center">
 
 <table>
+
 <tr>
 <td align="center"><b>Area</b></td>
 <td align="center"><b>Details</b></td>
@@ -243,8 +244,8 @@ Management Software
 <h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
-  A selection of projects showcasing my experience in
-  <b>Software Engineering, Mobile Development, Simulation & Database Systems</b>.
+A selection of projects showcasing my experience in
+<b>Software Engineering, Mobile Development, Simulation & Database Systems</b>.
 </p>
 
 <br>
@@ -417,7 +418,7 @@ projects are currently being developed.
 <h2 align="center">🏆 Competitive Programming</h2>
 
 <p align="center">
-  I actively practice problem-solving on the following platforms:
+I actively practice problem-solving on the following platforms:
 </p>
 
 <p align="center">
@@ -484,112 +485,6 @@ alt="GitHub Streak"
 
 <br>
 
-<div align="center">
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakib2405&theme=tokyonight"
-width="98%"
-alt="GitHub Activity Overview"
-/>
-
-</div>
-
-<br>
-
----
-
-<!-- ========================================================= -->
-<!--                  DEVELOPER HIGHLIGHTS                     -->
-<!-- ========================================================= -->
-
-<h2 align="center">💡 Developer Highlights</h2>
-
-<p align="center">
-  A quick overview of the areas I enjoy working on and continuously improving.
-</p>
-
-<br>
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td align="center" width="25%">
-
-<h3>💻</h3>
-
-<b>Software</b>
-
-<br><br>
-
-Clean Architecture<br>
-Scalable Systems<br>
-Problem Solving
-
-</td>
-
-<td align="center" width="25%">
-
-<h3>📱</h3>
-
-<b>Applications</b>
-
-<br><br>
-
-Flutter Apps<br>
-Firebase Systems<br>
-AI Integration
-
-</td>
-
-<td align="center" width="25%">
-
-<h3>🧠</h3>
-
-<b>Problem Solving</b>
-
-<br><br>
-
-Algorithms<br>
-Data Structures<br>
-Competitive Programming
-
-</td>
-
-<td align="center" width="25%">
-
-<h3>🚀</h3>
-
-<b>Growth</b>
-
-<br><br>
-
-Continuous Learning<br>
-Open Source<br>
-New Technologies
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Focus-Software%20Engineering-00B4D8?style=for-the-badge">
-<img src="https://img.shields.io/badge/Build-Scalable%20Applications-0077B6?style=for-the-badge">
-<img src="https://img.shields.io/badge/Learn-Modern%20Technology-161B22?style=for-the-badge">
-
-</div>
-
-<br>
-
 ---
 
 <!-- ========================================================= -->
@@ -599,7 +494,7 @@ New Technologies
 <h2 align="center">🐍 Contribution Activity</h2>
 
 <p align="center">
-  <i>Turning contributions into something that moves.</i>
+<i>Turning contributions into something that moves.</i>
 </p>
 
 <br>
@@ -639,8 +534,8 @@ width="100%"
 <h2 align="center">🌐 Let's Connect</h2>
 
 <p align="center">
-  <b>Have an idea, project, or opportunity?</b><br>
-  I'd be happy to connect, collaborate, and build something meaningful.
+<b>Have an idea, project, or opportunity?</b><br>
+I'd be happy to connect, collaborate, and build something meaningful.
 </p>
 
 <br>
