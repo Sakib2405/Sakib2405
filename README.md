@@ -21,9 +21,9 @@ I'm from **Bangladesh** 🇧🇩
 
 <img align="right" src="https://github.com/Sakib2405/Sakib2405/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
-- 👨‍🎓 I am a `3nd Year` student from the Faculty of **Computer Science and Engineering** at [**Patuakhali Science and Technology University (PSTU)**](http://pstu.ac.bd/).  
+- 👨‍🎓 I am a `4nd Year` student from the Faculty of **Computer Science and Engineering** at [**Patuakhali Science and Technology University (PSTU)**](http://pstu.ac.bd/).  
 - 🧑‍💻 Beginner competitive programmer at `Codeforces`, `Beecrowd`, `Hackerrank`, `Google Contests`.  
-- 🖱️ Learned `C` and currently learning `C++`, `java` `PHP` and `Python`.  
+- 🖱️ Learned `C` and currently learning `C` `C++`, `Java` `Html` `CSS` `javascript` `MySQL` `PHP` and `Python`.  
 - 📚 Exploring **Computer Science**, **Software Engineering**, and **Problem Solving**.  
 - 🤓 Always curious and `learning new things`.  
 
@@ -31,41 +31,105 @@ I'm from **Bangladesh** 🇧🇩
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> GitHub Stats  
 
-<details><summary><h3> 🔥 Streak Stats</h3></summary>  
+<details open>
+<summary><h2>📊 GitHub Analytics</h2></summary>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakib2405&theme=tokyonight_duo" alt="streak stats" /></p>
+<br>
 
-</details>
-  
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+<!-- GitHub Stats + Top Languages -->
 
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="Sakib2405's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sakib2405&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sakib2405&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="top langs" height="230px"/>
-<br/>
+  <a href="https://github.com/Sakib2405">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=Sakib2405&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true"
+      alt="Sakib2405's GitHub Stats"
+      height="190"
+    />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Sakib2405">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakib2405&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+      alt="Sakib2405's Top Languages"
+      height="190"
+    />
+  </a>
+</p>
 
-  <b>Note:</b> Top languages only show what I use in my public repositories and don’t reflect my actual skill level.
-  </p>
-</details>
+<br>
 
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>  
+<!-- GitHub Streak -->
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakib2405&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true">
+<h3 align="center">🔥 GitHub Streak</h3>
 
-</details>
+<p align="center">
+  <a href="https://github.com/Sakib2405">
+    <img
+      src="https://streak-stats.demolab.com?user=Sakib2405&theme=tokyonight_duo&hide_border=true"
+      alt="Sakib2405's GitHub Streak"
+    />
+  </a>
+</p>
 
-<details><summary><h3> :trophy: GitHub Trophies </h3></summary>  
+<br>
 
-<p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=Sakib2405&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="trophies" />
-</a> 
+<!-- Activity Graph -->
+
+<h3 align="center">⚡ Contribution Activity</h3>
+
+<p align="center">
+  <a href="https://github.com/Sakib2405">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Sakib2405&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true"
+      alt="Sakib2405's GitHub Activity Graph"
+      width="95%"
+    />
+  </a>
+</p>
+
+<br>
+
+<!-- GitHub Trophies -->
+
+<h3 align="center">🏆 GitHub Trophies</h3>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=Sakib2405&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7"
+      alt="Sakib2405's GitHub Trophies"
+      width="95%"
+    />
+  </a>
+</p>
+
+<br>
+
+<!-- Profile Views -->
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=Sakib2405&label=Profile%20Views&color=70a5fd&style=for-the-badge"
+    alt="Sakib2405's Profile Views"
+  />
 </p>
 
 </details>
 
----
+<br>
+
+<!-- Contribution Snake -->
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Sakib2405/Sakib2405/output/github-contribution-grid-snake.svg"
+    alt="Sakib2405's Contribution Snake"
+    width="95%"
+  />
+</p>
+
 
 ## 🐍 A Snake Eating My Contributions  
 
