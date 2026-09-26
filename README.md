@@ -223,7 +223,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakib2405&theme=tokyo-night&area=true&hide_border=true&color=00B4D8&line=0077B6&point=FFFFFF&bg_color=0D1117" width="98%" alt="Contribution Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakib2405&theme=tokyo-night&area=true&hide_border=true&color=00B4D8&line=0077B6&point=FFFFFF&bg_color=0D1117&custom_title=Contribution%20Activity" width="98%" alt="Contribution Activity Graph" />
 </div>
 
 <br>
