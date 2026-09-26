@@ -1,147 +1,84 @@
-### Hi there 👋 I am Nazmus Sakib  
-I'm from **Bangladesh** 🇧🇩  
+<div align="center">
 
-<h3 align="center">
-  Welcome to my profile!! 
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Nazmus%20Sakib&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%26%20Engineering%20Student&descAlignY=58&descSize=20" width="100%"/>
 
-<h2 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=D27800&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;C+Programming+Language;Java+Programming+Language;Learning+Python+%26+C%2B%2B;Always+learning+new+things" alt="Typing SVG" /></a>
-</h2>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=D27800&center=true&vCenter=true&width=650&lines=Computer+Science+Student;C+%26+C%2B%2B+Programmer;Java+Developer;Learning+Python+%26+Web+Dev;Always+Learning+New+Things" alt="Typing SVG" />
+</a>
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100074615715612) 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazmus-sakib-b4302b277/) 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nazmus_sakib_2405/) 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NazmusS99698031) 
-[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ug2102066@cse.pstu.ac.bd) 
+<br/>
 
----
+<a href="https://www.facebook.com/profile.php?id=100074615715612" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/nazmus-sakib-b4302b277/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/nazmus_sakib_2405/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://twitter.com/NazmusS99698031" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="mailto:ug2102066@cse.pstu.ac.bd" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-## <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width=6.5%> About Me  
+<img src="https://komarev.com/ghpvc/?username=Sakib2405&label=Profile%20Views&color=D27800&style=for-the-badge" alt="Profile Views"/>
 
-<img align="right" src="https://github.com/Sakib2405/Sakib2405/blob/main/Images/Right_Side.gif?raw=true" width=30%>
+</div>
 
-- 👨‍🎓 I am a `4nd Year` student from the Faculty of **Computer Science and Engineering** at [**Patuakhali Science and Technology University (PSTU)**](http://pstu.ac.bd/).  
-- 🧑‍💻 Beginner competitive programmer at `Codeforces`, `Beecrowd`, `Hackerrank`, `Google Contests`.  
-- 🖱️ Learned `C` and currently learning `C` `C++`, `Java` `Html` `CSS` `javascript` `MySQL` `PHP` and `Python`.  
-- 📚 Exploring **Computer Science**, **Software Engineering**, and **Problem Solving**.  
-- 🤓 Always curious and `learning new things`.  
+<br/>
 
----
+## 🧑‍💻 About Me
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> GitHub Stats  
+<img align="right" src="https://raw.githubusercontent.com/Sakib2405/Sakib2405/main/Images/Right_Side.gif" width="32%">
 
-<details open>
-<summary><h2>📊 GitHub Analytics</h2></summary>
+- 🇧🇩 &nbsp;I'm from **Bangladesh**
+- 🎓 &nbsp;4th Year student, **Faculty of Computer Science & Engineering**, [Patuakhali Science and Technology University (PSTU)](http://pstu.ac.bd/)
+- 🧩 &nbsp;Beginner competitive programmer on **Codeforces**, **Beecrowd**, **HackerRank** & **Google Contests**
+- 🛠️ &nbsp;Learned **C**, currently learning **C++**, **Java**, **HTML/CSS**, **JavaScript**, **MySQL**, **PHP** & **Python**
+- 📚 &nbsp;Exploring **Computer Science**, **Software Engineering** & **Problem Solving**
+- ⚡ &nbsp;Always curious, always learning new things
 
-<br>
+<br clear="right"/>
 
-<!-- GitHub Stats + Top Languages -->
+## 🧰 Tech Stack
 
-<p align="center">
-  <a href="https://github.com/Sakib2405">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=Sakib2405&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true"
-      alt="Sakib2405's GitHub Stats"
-      height="190"
-    />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Sakib2405">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakib2405&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-      alt="Sakib2405's Top Languages"
-      height="190"
-    />
-  </a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,mysql,php,git,github,vscode" />
 </p>
 
-<br>
+<br/>
 
-<!-- GitHub Streak -->
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sakib2405&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="Sakib2405's GitHub Stats" height="190"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakib2405&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Sakib2405's Top Languages" height="190"/>
+</p>
 
 <h3 align="center">🔥 GitHub Streak</h3>
-
 <p align="center">
-  <a href="https://github.com/Sakib2405">
-    <img
-      src="https://streak-stats.demolab.com?user=Sakib2405&theme=tokyonight_duo&hide_border=true"
-      alt="Sakib2405's GitHub Streak"
-    />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=Sakib2405&theme=tokyonight&hide_border=true" alt="Sakib2405's GitHub Streak"/>
 </p>
-
-<br>
-
-<!-- Activity Graph -->
 
 <h3 align="center">⚡ Contribution Activity</h3>
-
 <p align="center">
-  <a href="https://github.com/Sakib2405">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Sakib2405&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true"
-      alt="Sakib2405's GitHub Activity Graph"
-      width="95%"
-    />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakib2405&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true" alt="Sakib2405's Activity Graph" width="95%"/>
 </p>
-
-<br>
-
-<!-- GitHub Trophies -->
 
 <h3 align="center">🏆 GitHub Trophies</h3>
-
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=Sakib2405&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7"
-      alt="Sakib2405's GitHub Trophies"
-      width="95%"
-    />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Sakib2405&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="Sakib2405's GitHub Trophies" width="95%"/>
 </p>
 
-<br>
-
-<!-- Profile Views -->
-
+<h3 align="center">🐍 Contribution Snake</h3>
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=Sakib2405&label=Profile%20Views&color=70a5fd&style=for-the-badge"
-    alt="Sakib2405's Profile Views"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sakib2405/Sakib2405/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sakib2405/Sakib2405/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sakib2405/Sakib2405/output/github-contribution-grid-snake.svg" width="95%">
+  </picture>
 </p>
 
-</details>
+<br/>
 
-<br>
+<div align="center">
 
-<!-- Contribution Snake -->
+### Thank you for visiting! ❤️
 
-<h2 align="center">🐍 Contribution Snake</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Sakib2405/Sakib2405/output/github-contribution-grid-snake.svg"
-    alt="Sakib2405's Contribution Snake"
-    width="95%"
-  />
-</p>
-
-
-## 🐍 A Snake Eating My Contributions  
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sakib2405/Sakib2405/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sakib2405/Sakib2405/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sakib2405/Sakib2405/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-<h2 align='center'>Thank You ❤️</h2>
-<p align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70%" height="65px">
-</p>
+</div>
